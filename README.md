@@ -7,6 +7,8 @@ This repository contains a **Mobile Sales Dashboard** built using **Microsoft Po
 
 The dashboard helps businesses and analysts track and understand key metrics related to mobile sales. It includes dynamic and interactive visuals that allow users to drill down into sales trends and gain actionable insights.
 
+<img width="1290" height="721" alt="Screenshot 2025-08-06 185447" src="https://github.com/user-attachments/assets/6d4fef4e-258f-41a5-ba90-c80f37e517e8" />
+
 ### 🔍 Key Features
 **Total Sales, Quantity & Transactions Overview**
 **Sales by City (Map Visualization)**
